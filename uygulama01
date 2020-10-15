@@ -1,5 +1,0 @@
-
-metin = "bilgi insanlar için bir ayrıcalıktır ve bilgiler sayesinde gelecek aydınlanacaktır."
-kelime = metin.split()
-sonmetin = kelime.count("bilgi")
-print(sonmetin)
